@@ -31,7 +31,7 @@
 
 ### 2.1. Скачивание плагина
 Скачайте плагин:  
-👉 https://github.com/Fykeh/godot-yandex-games-integration.git
+👉 [https://github.com/Fykeh/godot-yandex-games-integration.git](https://github.com/Fykeh/godot-yandex-games-integration/tree/126e0b638f00ac948bf9ddfc90ffb71eb121a79c)
 
 ### 2.2. Установка
 Распакуйте архив и скопируйте папку `addons` в корневую папку вашего проекта.

@@ -45,7 +45,7 @@
 3. В поле **"Node Name"** оставьте `YandexSDK`
 4. Нажмите **"Add"**
 
-![Autoload настройка](https://example.com/path-to-image.jpg) *(добавьте скриншот позже)*
+!Autoload настройка.
 
 Порядок автозагрузки должен быть таким:
 - YandexSDK

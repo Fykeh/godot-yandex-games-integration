@@ -27,11 +27,11 @@
 
 ---
 
-## 2. Установка плагина Mist1351/yandex-games-sdk
+## 2. Установка изменённого плагина Mist1351/yandex-games-sdk
 
 ### 2.1. Скачивание плагина
-Скачайте плагин с официального репозитория:  
-👉 [Mist1351/yandex-games-sdk](https://github.com/Mist1351/yandex-games-sdk)
+Скачайте плагин:  
+👉 https://github.com/Fykeh/godot-yandex-games-integration.git
 
 ### 2.2. Установка
 Распакуйте архив и скопируйте папку `addons` в корневую папку вашего проекта.
